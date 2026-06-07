@@ -1,0 +1,11 @@
+{
+  "steves_lava_chicken": {
+    "subtitle": "subtitles.steves_lava_chicken",
+    "sounds": [
+      {
+        "name": "golden_tnt:40b848cd-c57a-465b-b056-a594c207945a",
+        "stream": true
+      }
+    ]
+  }
+}

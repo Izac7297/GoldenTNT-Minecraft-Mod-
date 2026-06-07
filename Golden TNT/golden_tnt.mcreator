@@ -1,0 +1,55 @@
+{
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "steves_lava_chicken",
+      "files": [
+        "40b848cd-c57a-465b-b056-a594c207945a"
+      ],
+      "category": "record",
+      "subtitle": "Steve\u0027s Lava Chicken!"
+    }
+  ],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.isaacg.golden_tnt": "Golden TNT",
+      "subtitles.steves_lava_chicken": "Steve\u0027s Lava Chicken!",
+      "item.golden_tnt.golden_tnt": "Golden TNT"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/resources/pack.mcmeta",
+      "src/main/resources/assets/golden_tnt/sounds.json",
+      "src/main/java/net/mcreator/golden_tnt/GoldenTntMod.java",
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/java/net/mcreator/golden_tnt/init/GoldenTntModSounds.java"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "golden_tnt",
+    "modName": "Golden TNT",
+    "version": "1.0.0",
+    "description": "This mod adds Golden TNT with 99 power!",
+    "author": "GDIGH",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "modPicture": "golden_block",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.4",
+    "credits": "Created by GDIGH, on June 3, 2025.",
+    "modElementsPackage": "net.mcreator.golden_tnt"
+  },
+  "mcreatorVersion": 202600114619
+}
